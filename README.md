@@ -14,4 +14,6 @@ pip install -r requirements.txt
 ## 4º Por último executar o app via cmd
 python ToDo.py
 
-Screenshot
+## Screenshot
+
+<img src="imagem_2023-05-01_153041550.png">
